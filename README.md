@@ -9,6 +9,6 @@ In this notebook, we will implement a Neural Network from scratch using the Adam
 - We use mini-batch gradient descent instead of SGD because it is more efficient and robust. As the algorithm uses batching, not all of the training data needs to be loaded into memory, making the process more efficient to implement. 
 
 This is part 2 of the from-scratch series; If you are interested in part 1, you can find it <a href='https://github.com/Kiana-Jafari/Digit-Recognition-From-Scratch'>here!</a>
-The datasets are available to download in the file session. Please note that we didn't use the same dataset for the train-test as we used in the previous lab. This is because, despite the better functionality of the Kaggle dataset and its larger size, the test data does not include a ground truth (label) column. Therefore, we couldn't gain a deep intuition of the model performance on the test set. Instead, we used the MNIST dataset from `Google Colaboratory`.
+The datasets are available to download in the file session. Please **note** that we didn't use the same dataset for the train-test as we used in the previous lab. This is because, despite the better functionality of the Kaggle dataset and its larger size, the test data does not include a ground truth (label) column. Therefore, we couldn't gain a deep intuition of the model performance on the test set. Instead, we used the MNIST dataset from `Google Colaboratory`.
 
 Hope this notebook will be useful to everyone!
