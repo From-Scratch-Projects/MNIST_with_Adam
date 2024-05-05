@@ -12,6 +12,7 @@ This is part 2 of the from-scratch series; If you are interested in part 1, you 
 The datasets are available to download in the file session. Please **note** that we didn't use the same dataset for the train-test as we used in the previous lab. This is because, despite the better functionality of the Kaggle dataset and its larger size, the test data does not include a ground truth (label) column. Therefore, we couldn't gain a deep intuition of the model performance on the test set. Instead, we used the MNIST dataset from `Google Colaboratory`.
 
 -----------------------------------------------------------------------------------------------------
+<h3 style='color : Blue'>Also Note that:</h3>
 
 The revised version of the notebook, which was uploaded immediately following the initial version, encompasses a range of additional techniques that complement the utilization of Adam Optimizer and Mini-Batch Gradient Descent techniques, with a view to enhancing the performance of our model. These techniques include: 
 
