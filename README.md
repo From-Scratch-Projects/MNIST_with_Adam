@@ -17,7 +17,7 @@ The revised version of the notebook, which was uploaded immediately following th
 
 1. Evaluation of a Deep Neural Network (DNN) with an input layer, two hidden layers (instead of one), and an output layer. 
 2. Implementation of L2 Regularization. 
-3. Usage of two of the most commonly employed activation functions, namely `Swish` in conjunction with Leaky ReLU. 
+3. Usage of two of the most commonly employed activation functions, namely **`Swish`** in conjunction with Leaky ReLU. 
 
 The updated notebook provides a comprehensive understanding of the fundamental components required to construct an Artificial Neural Network from scratch.
 
