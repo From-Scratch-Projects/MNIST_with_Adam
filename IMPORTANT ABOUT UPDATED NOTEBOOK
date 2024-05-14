@@ -1,9 +1,0 @@
-The revised version of the notebook, which was uploaded immediately following the initial version, encompasses a range of additional techniques that complement the utilization of Adam Optimizer and Mini-Batch Gradient Descent techniques, with a view to enhancing the performance of our model. These techniques include: 
-
-1. Evaluation of a Deep Neural Network (DNN) with an input layer, two hidden layers (instead of one), and an output layer. 
-2. Implementation of L2 Regularization. 
-3. Usage of two of the most commonly employed activation functions, namely `Swish` in conjunction with Leaky ReLU. 
-
-The updated notebook provides a comprehensive understanding of the fundamental components required to construct an Artificial Neural Network from scratch.
-
-Hope it gives you a better understanding!
