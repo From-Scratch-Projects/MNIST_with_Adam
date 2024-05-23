@@ -13,7 +13,7 @@ The datasets are from `Google Colaboratory`, and available to download in the fi
 
 ##### Also Note that:
 
-This notebook encompasses a range of additional techniques that complement the utilization of Adam Optimizer and Mini-Batch Gradient Descent techniques, to enhance the performance of our model. These techniques include: 
+The Updated notebook encompasses a range of additional techniques that complement the utilization of Adam Optimizer and Mini-Batch Gradient Descent techniques, to enhance the performance of our model. These techniques include: 
 
 1. Evaluation of a Deep Neural Network (DNN) with an input layer, two hidden layers (instead of one), and an output layer. 
 2. Implementation of L2 Regularization. 
