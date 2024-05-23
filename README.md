@@ -12,6 +12,7 @@ In this notebook, we will implement a Neural Network from scratch using the Adam
 The datasets are from `Google Colaboratory`, and available to download in the file session.
 
 ##### Also Note that:
+___________________________________________________________________________________________________________________________________________________________________________________________
 
 The Updated notebook encompasses a range of additional techniques that complement the utilization of Adam Optimizer and Mini-Batch Gradient Descent techniques, to enhance the performance of our model. These techniques include: 
 
