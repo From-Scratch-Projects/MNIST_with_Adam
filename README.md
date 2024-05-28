@@ -1,4 +1,4 @@
-### Digit Recognizer From Scratch Using Adam
+### Digit Recognizer From Scratch Using Adam (Part 2)
 -----------------------------------------------------------------------------------------------------
 
 In this notebook, we will implement a Neural Network from scratch using the Adam+Mini-Batch Gradient Descent algorithm. 
